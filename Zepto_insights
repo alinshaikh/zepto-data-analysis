@@ -1,0 +1,96 @@
+## 📊 Key Business Insights
+
+### 1. Inventory Health
+- **88.8%** of products are currently in stock (1,088 SKUs)
+- **11.2%** (137 SKUs) are out of stock
+- Only **3 high-value products** (MRP > ₹300) are out of stock:
+  - Patanjali Cow’s Ghee → ₹565
+  - Aashirvaad Atta With Multigrains → ₹315
+  - Everest Kashmiri Lal Chilli Powder → ₹310
+
+**Recommendation:** Prioritize restocking these high-MRP out-of-stock items to avoid revenue leakage.
+
+---
+
+### 2. Discount Strategy
+- Average discount across catalog: **7.8%**
+- Median discount: **6%**
+- Maximum discount offered: **50%**
+
+**Top products by discount (50%):**
+| Product                                      | MRP (₹) | Discount |
+|----------------------------------------------|---------|----------|
+| RRO Mascarpone Cheese                        | 355     | 50%      |
+| Ceres Foods Laal Maas Instant Liquid Masala  | 220     | 50%      |
+| Chef’s Basket Durum Wheat Pastas             | 160     | 50%      |
+| RRO Burrata / Sour Cream / Mozzarella        | 250–275 | 50%      |
+
+---
+
+### 3. Estimated Revenue by Category
+
+| Category                  | Estimated Inventory Value |
+|---------------------------|---------------------------|
+| Cooking Essentials        | ₹3.37 Lakh                |
+| Munchies                  | ₹3.37 Lakh                |
+| Dairy, Bread & Batter     | ₹55,051                   |
+| Fruits & Vegetables       | ₹10,846                   |
+| **Total**                 | **₹7.41 Lakh**            |
+
+> **Note:** Cooking Essentials and Munchies show identical inventory value and product count. This appears to be a **data duplication issue** in the source dataset that should be investigated.
+
+---
+
+### 4. Pricing Opportunities
+- Several high-priced products (MRP > ₹500) have very low discounts (< 10%)
+- Large oil jars (Dhara, Saffola, Fortune) priced between ₹925 – ₹1,250 offer only 0–8% discount
+- These items represent strong potential for strategic discounting or promotional campaigns
+
+---
+
+### 5. Best Value Products (Lowest Price per Gram)
+
+| Product                          | Weight   | Price/Gram |
+|----------------------------------|----------|------------|
+| Tata Salt                        | 1 kg     | ₹0.02      |
+| Aashirvaad Iodised Salt          | 1 kg     | ₹0.02      |
+| Onion / Potato                   | 1–3 kg   | ₹0.02–0.03 |
+| Aashirvaad Atta / Pillsbury Atta | 10 kg    | ₹0.04      |
+
+These staples offer the best value for money and can be used effectively in customer acquisition messaging.
+
+---
+
+### 6. Inventory Weight Distribution
+
+| Weight Category     | Number of SKUs |
+|---------------------|----------------|
+| Low (< 1 kg)        | 1,022          |
+| Medium (1–5 kg)     | 157            |
+| Bulk (≥ 5 kg)       | 46             |
+
+**Total Inventory Weight:**
+- Cooking Essentials + Munchies → ~1,405 kg each
+- Dairy, Bread & Batter → 144 kg
+- Fruits & Vegetables → 92 kg
+
+---
+
+### 7. Category Composition
+
+| Category                  | No. of SKUs |
+|---------------------------|-------------|
+| Cooking Essentials        | 514         |
+| Munchies                  | 514         |
+| Dairy, Bread & Batter     | 104         |
+| Fruits & Vegetables       | 93          |
+
+---
+
+### ✅ Actionable Recommendations
+
+1. **Restock** the 3 high-MRP out-of-stock items immediately
+2. Investigate the **data duplication** between Cooking Essentials and Munchies categories
+3. Run targeted promotions on high-MRP, low-discount products (especially cooking oils)
+4. Leverage the high 50% discount on premium cheese & pasta items for marketing campaigns
+5. Highlight staples (salt, onion, potato, atta) as best-value products in customer messaging
